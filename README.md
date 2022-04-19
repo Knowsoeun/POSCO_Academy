@@ -1,2 +1,2 @@
-# Posco-Academy
+# Posco BigData and AI
 in Posco Academy
