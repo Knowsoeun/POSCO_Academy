@@ -1,4 +1,4 @@
-# Posco BigData and AI
+# Posco BigData & AI Academy 16기  
 포스코 빅데이터 분석 프로젝트(팀장)
 
 **진행(2021.10.17 - 2021.12.23)**  
